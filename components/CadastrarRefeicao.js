@@ -86,10 +86,3 @@ const estilo = StyleSheet.create({
         textAlign: 'center',
     },
 });
-
-
-
-
-        
-
-
